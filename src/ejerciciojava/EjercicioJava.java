@@ -12,7 +12,7 @@ public class EjercicioJava {
         }
         return false;
     }
-    
+    //nada
     public static void main(String[] args) {
         EjercicioJava ejercicio = new EjercicioJava();
         System.out.println("Ejercicio 01: ARDILLAS");
